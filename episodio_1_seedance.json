@@ -1,0 +1,300 @@
+{
+  "episode": 1,
+  "title": "Pourquoi les Français font toujours grève ? (Versão Viral)",
+  "total_duration_seconds": 60,
+  "aspect_ratio": "9:16",
+  "target_model": "Seedance 1.5",
+  "style_reference": "Clean full-bleed 2D cartoon style inspired by @mrfrisson (NO UI, NO borders, bold black outlines, vibrant cel-shaded colors)",
+  "timeline": [
+    {
+      "block": 1,
+      "type": "scene",
+      "time": "00:00 - 00:05",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_01.png",
+      "dialogue_fr": "En France, si ta rue est calme le matin... vérifie ton passeport, t'es sûrement pas en France !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Jean-Baguette holding a coffee mug by his window, eyes popping in shock as yellow-vest protesters march outside. Fast camera push-in, expressive French lip-sync.",
+        "audio_dialogue": "En France, si ta rue est calme le matin... vérifie ton passeport, t'es sûrement pas en France !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 1,
+      "type": "transition",
+      "time": "00:05 - 00:06",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_01.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Fast cartoon whip-zoom into the shaking coffee mug with motion lines, snapping into the next scene."
+      }
+    },
+    {
+      "block": 2,
+      "type": "scene",
+      "time": "00:06 - 00:11",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_02.png",
+      "dialogue_fr": "Chaque Français a son kit de survie : gilet jaune, mégaphone, et une baguette tactique !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Jean-Baguette swings open his wardrobe revealing yellow vests, megaphones, and baguettes, speaking proudly.",
+        "audio_dialogue": "Chaque Français a son kit de survie : gilet jaune, mégaphone, et une baguette tactique !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 2,
+      "type": "transition",
+      "time": "00:11 - 00:12",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_02.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Fast spinning baguette wipe transition across the screen."
+      }
+    },
+    {
+      "block": 3,
+      "type": "scene",
+      "time": "00:12 - 00:17",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_03.png",
+      "dialogue_fr": "Règle d'or : touche pas à la retraite, sinon même les pigeons bloquent le périphérique !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Nervous politician sweating next to a giant red button while alarm lights flash and pigeons outside hold protest signs.",
+        "audio_dialogue": "Règle d'or : touche pas à la retraite, sinon même les pigeons bloquent le périphérique !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 3,
+      "type": "transition",
+      "time": "00:17 - 00:18",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_03.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Flashing red siren light fills the screen and cuts rapidly to the train station."
+      }
+    },
+    {
+      "block": 4,
+      "type": "scene",
+      "time": "00:18 - 00:23",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_04.png",
+      "dialogue_fr": "Tu veux prendre le train ? Oublie ! Le conducteur fait un barbecue sur les rails !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Jean-Baguette annoyed at a train station while the train driver grills sausages on the tracks behind him.",
+        "audio_dialogue": "Tu veux prendre le train ? Oublie ! Le conducteur fait un barbecue sur les rails !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 4,
+      "type": "transition",
+      "time": "00:23 - 00:24",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_04.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Thick cartoon barbecue smoke puffs across the screen into the next scene."
+      }
+    },
+    {
+      "block": 5,
+      "type": "scene",
+      "time": "00:24 - 00:29",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_05.png",
+      "dialogue_fr": "Parce qu'en France, une manif sans merguez... c'est juste une randonnée avec du bruit !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Protesters happily grilling merguez sausages in the street while Jean-Baguette grins with a sausage baguette.",
+        "audio_dialogue": "Parce qu'en France, une manif sans merguez... c'est juste une randonnée avec du bruit !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 5,
+      "type": "transition",
+      "time": "00:29 - 00:30",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_05.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Fast zoom out through rising grill smoke and sparks."
+      }
+    },
+    {
+      "block": 6,
+      "type": "scene",
+      "time": "00:30 - 00:35",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_06.png",
+      "dialogue_fr": "Les touristes prennent des selfies en pensant que c'est un festival... Non mec, c'est juste mardi !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Tourist taking selfies in front of a protest while Jean-Baguette looks deadpan at the camera.",
+        "audio_dialogue": "Les touristes prennent des selfies en pensant que c'est un festival... Non mec, c'est juste mardi !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 6,
+      "type": "transition",
+      "time": "00:35 - 00:36",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_06.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Bright white camera flash starburst fills the screen."
+      }
+    },
+    {
+      "block": 7,
+      "type": "scene",
+      "time": "00:36 - 00:41",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_07.png",
+      "dialogue_fr": "Et nos pancartes ? Plus de créativité que tous les scénaristes d'Hollywood réunis !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Close-up of funny French protesters bouncing and waving colorful cardboard signs.",
+        "audio_dialogue": "Et nos pancartes ? Plus de créativité que tous les scénaristes d'Hollywood réunis !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 7,
+      "type": "transition",
+      "time": "00:41 - 00:42",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_07.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "A large cardboard protest sign slides horizontally across the screen."
+      }
+    },
+    {
+      "block": 8,
+      "type": "scene",
+      "time": "00:42 - 00:47",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_08.png",
+      "dialogue_fr": "Mais à midi trente, trêve sacrée : manifestants et policiers partagent le camembert !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. A protester and a riot policeman sitting peacefully on the sidewalk sharing camembert cheese and baguette.",
+        "audio_dialogue": "Mais à midi trente, trêve sacrée : manifestants et policiers partagent le camembert !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 8,
+      "type": "transition",
+      "time": "00:47 - 00:48",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_08.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Cartoon clock hands spin rapidly from 12:30 to 14:00."
+      }
+    },
+    {
+      "block": 9,
+      "type": "scene",
+      "time": "00:48 - 00:53",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_09.png",
+      "dialogue_fr": "Et à quatorze heures ? On reprend la grève, le ventre plein et la voix chaude !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Jean-Baguette energized, shouting into a red megaphone while leading a cheerful crowd.",
+        "audio_dialogue": "Et à quatorze heures ? On reprend la grève, le ventre plein et la voix chaude !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 9,
+      "type": "transition",
+      "time": "00:53 - 00:54",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_09.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Extreme zoom into the red megaphone with soundwaves bursting outward."
+      }
+    },
+    {
+      "block": 10,
+      "type": "scene",
+      "time": "00:54 - 00:59",
+      "duration": 5,
+      "image_file": "images/ep1_v2/quadro_10.png",
+      "dialogue_fr": "Et devine ce qui se passe si on touche au fromage ? Commente 'FROMAGE' et abonne-toi pour l'épisode 2 !",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "prompt": "2D cartoon animation, @mrfrisson style, clean full-bleed 9:16. Dramatic close-up of Jean-Baguette pointing at the viewer, holding a wedge of cheese.",
+        "audio_dialogue": "Et devine ce qui se passe si on touche au fromage ? Commente 'FROMAGE' et abonne-toi pour l'épisode 2 !",
+        "language": "fr"
+      }
+    },
+    {
+      "block": 10,
+      "type": "transition",
+      "time": "00:59 - 01:00",
+      "duration": 1,
+      "image_file": "images/ep1_v2/transicao_10.png",
+      "seedance_prompt": {
+        "model": "seedance-1.5",
+        "duration": 1,
+        "aspect_ratio": "9:16",
+        "prompt": "Dramatic cartoon cliffhanger freeze-frame with comic-book lightning bolts."
+      }
+    }
+  ]
+}
